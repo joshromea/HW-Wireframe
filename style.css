@@ -20,19 +20,9 @@ body {
 }
 
 section{
-    width: 465px;
+    width: 525px;
     padding: 10px;
 }
-
-.content{
-    float: left;
-    width: 495px;
-    height: 190px;
-    border: 5px solid #777;
-    margin-bottom: 10px;
-
-}
-
 
 
 .article {
@@ -54,7 +44,7 @@ ul{
 
 aside{
     float: right;
-    width: 455px;
+    width: 405px;
     height: 335px;
     margin-bottom: 10px;
 
